@@ -1,0 +1,11 @@
+body{font-family: Helvetica; background-color: #8895FF;}
+.contenedor{
+    background-color: #F6F7FF;
+    margin: 100px auto 0 auto;
+    width: 800px;
+    height: 1175px;
+    padding: 20px;
+}
+.titulo{font-family: Impact; color: #F6F7FF; font-size: 100px; text-align: center;}
+
+img{float: right;}
